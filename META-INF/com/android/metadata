@@ -1,0 +1,3 @@
+post-build=htc/icyfire_buzz/buzz:4.0.3/MR1/eng.mattp.20111220.112041:eng/test-keys
+post-timestamp=1324380119
+pre-device=buzz
